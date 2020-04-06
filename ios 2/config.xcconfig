@@ -1,0 +1,7 @@
+RN_APP_ICON = AppIcon
+RN_BUILD_NUMBER = 2
+RN_BUNDLE_ID = com.zender2003.nick.soccer.stars
+RN_DISPLAY_NAME = 足球明星赛
+RN_PRODUCT_NAME = SoccerStars
+RN_PUSH_APP_KEY = ""
+RN_VERSION = 1.0
